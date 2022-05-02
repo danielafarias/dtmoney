@@ -17,7 +17,9 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Projeto inicializado
-- [ ] Componentizações
+- [x] Componentizações visuais
+- [ ] Fake API com MirageJS
+- [ ] Componentizações funcionais
 - [ ] Projeto Finalizado
 
 ## 💻 Tecnologias
