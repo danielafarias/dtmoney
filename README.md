@@ -17,9 +17,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Projeto inicializado
-- [x] Componentização da Sidebar
-- [x] Componentização do conteúdo
-- [x] Projeto Finalizado
+- [ ] Componentizações
+- [ ] Projeto Finalizado
 
 ## 💻 Tecnologias
 
