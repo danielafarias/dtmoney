@@ -18,7 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Projeto inicializado
 - [x] Componentizações visuais
-- [ ] Fake API com MirageJS
+- [x] Fake API com MirageJS
 - [ ] Componentizações funcionais
 - [ ] Projeto Finalizado
 
