@@ -4,6 +4,7 @@ import close from "../../assets/close.svg";
 import income from "../../assets/income.svg";
 import outcome from "../../assets/outcome.svg";
 import { FormEvent, useState } from "react";
+import { api } from "../../services/api";
 
 interface NewtransactionModalProps {
   isOpen: boolean;
@@ -22,6 +23,14 @@ const [type, setType] = useState('deposit');
 
 function handleCreateNewTransaction(e: FormEvent) {
   e.preventDefault();
+  const data = {
+    title,
+    value,
+    category,
+    type
+  };
+
+  api.post('/transactions', data)
 }
 
   return (
