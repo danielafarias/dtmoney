@@ -23,16 +23,22 @@ const [type, setType] = useState('deposit');
 
 const { createTransaction } = useContext(TransactionsContext);
 
-function handleCreateNewTransaction(e: FormEvent) {
+async function handleCreateNewTransaction(e: FormEvent) {
   e.preventDefault();
 
-  createTransaction({
+  await createTransaction({
     title,
     amount,
     category,
     type,
   })
-  
+
+  setTitle('');
+  setAmount(0);
+  setCategory('');
+  setType('deposit');
+
+  onRequestClose();
 }
 
   return (
