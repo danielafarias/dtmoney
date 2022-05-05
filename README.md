@@ -20,8 +20,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Componentizações visuais
 - [x] Fake API com MirageJS
 - [x] Modal e Form
-- [ ] Componentizações funcionais
-- [ ] Projeto Finalizado
+- [x] Componentizações funcionais
+- [x] Projeto Finalizado
 
 ## 💻 Tecnologias
 
