@@ -10,7 +10,7 @@
 ![dtmoney](https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg)
 
 
-> dtmoney é uma aplicação de controle financeiro. Desafio sobre Componentização das aulas de Primeira aplicação web com ReactJS da Rocketseat Ignite.
+> dtmoney é uma aplicação de controle financeiro. Exemplo prático sobre Componentização das aulas de Primeira aplicação web com ReactJS da Rocketseat Ignite.
 
 ### ❤️ Ajustes e melhorias
 
